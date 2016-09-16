@@ -13,6 +13,7 @@ public class game {
 		Thread.sleep(2500);
 		if(hell)
 		{
+			// b
 			System.out.println("In survive mode, enemy goes first, with wiser intelligence,and more move.");
 			for(int i=1;i<=5;i++)
 			{
