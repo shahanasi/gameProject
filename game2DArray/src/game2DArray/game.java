@@ -193,7 +193,7 @@ public class game
 						System.out.println("Well, be prepared... ");
 						System.out.println("");
 //						System.out.println("\      /");
-						
+//						
 						System.out.println("");
 						Thread.sleep(1000);
 						hell=true;
